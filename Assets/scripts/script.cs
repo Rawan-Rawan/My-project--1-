@@ -8,6 +8,7 @@ public class script : MonoBehaviour
     void Start()
     {
         Debug.Log("j");
+        Debug.Log("m");
         
     }
 
